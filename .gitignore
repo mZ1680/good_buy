@@ -1,9 +1,7 @@
-node_modules/
-bower_components/
-*.log
-
-build/
-dist/
-
-project.config.json
+*.log*
+.cache
+.DS_Store
+.idea
+.vscode
+node_modules
 project.config.json
